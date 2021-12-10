@@ -17,28 +17,4 @@
 <br>
 <img src="https://github.com/KenMan79sf/KenMan79sf/blob/master/Assets/super-kid.gif" alt="Super Kid">
 
-
-# Connect with me<img src="https://github.com/KenMan79sf/KenMan79sf/blob/master/Assets/Handshake.gif" height="32px">
-
-  <a href="https://www.linkedin.com/in/satyam-goyal26/">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/KenMan79sf/KenMan79sf/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/SatYug26">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/KenMan79sf/KenMan79sf/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/satyu.26/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/KenMan79sf/KenMan79sf/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:goyalsatyam8@gmail.com">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/KenMan79sf/KenMan79sf/blob/master/Assets/Gmail.svg" />
-  </a>
-
-
-<br><br>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=KenMan79sf)
-<!-- ![visitors](https://badges.pufler.dev/visits/KenMan79sf/KenMan79sf)
-![Visitor Count](https://profile-counter.glitch.me/KenMan79sf/count.svg) -->
-
-
-<!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
+ 
